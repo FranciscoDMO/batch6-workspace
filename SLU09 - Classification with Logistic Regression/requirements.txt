@@ -7,4 +7,4 @@ pandas==1.4.2           # base
 scikit-learn==0.24.2    # base
 scipy==1.6.3            # additional - used by many units - maybe not necessary for this unit
 seaborn==0.11.1         # additional - used by many units
-jupyter-client==6.1.12  # base
+jupyter-client==6.1.12 # base
